@@ -1,5 +1,4 @@
 # Summary of bjpark  
-***
 [이력서](https://innate-rock-747.notion.site/734b91e7aa2044079a952c7a5fb369f1?pvs=4)
 
 <!--
