@@ -1,5 +1,5 @@
 ## Summary of BJ Park  
-Achievement: [경험 정리](https://innate-rock-747.notion.site/734b91e7aa2044079a952c7a5fb369f1?pvs=4)(notion link)
+Achievement: [경험 정리](https://innate-rock-747.notion.site/295a01a9a041800e8be0fe78c4143693)(notion link)
 
 <!--
 **krapjb/krapjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
